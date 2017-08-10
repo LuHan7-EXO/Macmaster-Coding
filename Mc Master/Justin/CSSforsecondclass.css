@@ -1,0 +1,53 @@
+h3{
+  color: #4286f4;
+  background-color: #d3f441;
+
+}
+
+
+p{
+  font-family; cursive;
+  font-size: 34px;
+}
+
+
+div {
+  height: 1500px;
+  width: 1500px;
+  background-image: url(http://orig03.deviantart.net/2c01/f/2015/064/1/7/_exo_wallpaper__exo_planet__2_the_exoluxion_by_its4you-d8kh9dt.jpg);
+  background-size: 100%;
+
+}
+
+
+
+td {
+  height: 100px;
+  width: 200px;
+  border: 3px dashed #22CC11;
+}
+
+table{
+  border:11px solid red;
+}
+
+a{
+  color: #EE9909;
+  text-decoraion: none;
+
+}
+a: hover {
+  color: #41f45e;
+  font-size: 100px;
+}
+
+img{
+  width: 400px;
+  height: 200px;
+  border: 3px solid gold;
+}
+
+
+* {
+  border: 6px dashed gold;
+}

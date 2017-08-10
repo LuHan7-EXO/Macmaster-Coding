@@ -1,0 +1,106 @@
+/*>  height: 1500px;
+  width: 1500px;
+  background-image: url(https://d33jl3tgfli0fm.cloudfront.net/helix/images/games/league-of-legends/background.jpg);
+  background-size: 100%;
+
+}
+<*/
+
+#wtlor{
+  font-size: 45px;
+  font-family: fantasy;
+  color: gold;
+}
+
+a{
+  font-size: 40px;
+  font-family: fantasy;
+  text-decoration: none;
+  color: grey;
+
+}
+
+th{
+  padding-right: 60px;
+  padding-bottom: -70px;
+}
+table{
+  margin-top: -40px;
+}
+
+#topbar{
+  height: 70px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: solid black;
+
+}
+
+#aboutus {
+  height: 60px;
+  width: 80px;
+  color: yellow;
+}
+
+
+
+body{
+
+  background-image: url( "http://elostart.net/wp-content/uploads/2015/11/league_of_legends-vs-game-background-1600x900.jpg" );
+  background-size: 100% 1000px;
+
+}
+
+a:hover{
+  color: red;
+}
+
+#doyou {
+  margin-left: 130px;
+  margin-top: 90px;
+  color:gold;
+  font-family: monospace;
+  font-size: 31px;
+  display: inline-block;
+}
+
+#but {
+  margin-top: 90px;
+  margin-left: 130px;
+
+  color:gold;
+  font-family: monospace;
+  font-size: 31px;
+}
+
+
+
+
+#douwant {
+  margin-left: 100px;
+  margin-top: 20px;
+  height: 400px;
+  width: 700px;
+}
+#jinxhome {
+  margin-left: 290px;
+  margin-top: 20px;
+  height: 400px;
+  width: 700px;
+}
+
+.socialmedia {
+  margin-top: 70px;
+  margin-left: 220px;
+  margin-right: 220px;
+  height: 200;
+  width: 200px;
+}
+
+.bottomword{
+  font-size: 30px;
+  font-family: serif;
+  text-decoration: none;
+  color: yellow;
+  padding-left:150px;
+}

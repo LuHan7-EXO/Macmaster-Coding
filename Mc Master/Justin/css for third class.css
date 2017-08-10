@@ -1,0 +1,75 @@
+
+
+#whole{
+  height : 1100px;
+  width: 900px;
+  background-color: black;
+}
+
+<div>{
+
+  border: auto;
+}
+
+#topleft{
+
+  height: 100px;
+  width: 400px;
+  background-color: blue;
+  float: left;
+  border: 15px solid black;
+  display: inline-block;
+}
+
+#topright{
+  height: 300px;
+  width: 300px;
+  background-color: gold;  border: 5px solid black;
+  display: inline-block;
+
+
+}
+
+#topleft1{
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  background-color: #f44179;
+  border-left: 50px solid pink;
+  border-bottom:30px solid grey;
+  display: inline-block;
+}
+
+#middleleft{
+  height: 200px;
+  width: 100px;
+  float: left;
+  background-color: #f46d41;
+  display: inline-block;
+
+}
+
+#lol{
+  height: 280px;
+  width: 110px;
+  background-color: #41f4f4;
+  display: inline-block;
+  border: 15px solid black;
+
+}
+
+#midmid{
+  height: 270px;
+  width: 200px;
+  float: left;
+  background-color: red;
+  border: 15px solid black;
+  display: inline-block;
+
+}
+
+#midright{
+  height: 600px;
+  width: 200px;
+  background-image: url(https://vignette1.wikia.nocookie.net/logopedia/images/9/9b/Exo_logo.jpg/revision/latest?cb=20131128093312);
+}

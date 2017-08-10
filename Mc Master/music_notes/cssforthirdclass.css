@@ -1,0 +1,42 @@
+body{
+  background-color: #f4eb42;
+}
+
+#keys{
+  width: 2000px;
+  height: 1000px;
+  margin: auto;
+  margin-top: 15%
+}
+
+.key{
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+#a{
+  background-color: #f4417a;
+  margin-right: 100px;
+}
+#b{
+  background-color: red;
+  margin-right: 100px;
+}
+
+#c{
+  background-color: blue;
+  margin-right: 100px;
+}
+
+#d{
+  background-color: green;
+  margin-right: 100px;
+}
+#e{
+  background-color: grey;
+  margin-right: 100px;
+}
+#f{
+  background-color: purple;
+}

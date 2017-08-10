@@ -1,0 +1,70 @@
+body{
+  background-image: url(http://www.lol-wallpapers.com/wp-content/uploads/2017/01/Snowdown-Background-League-of-Legends-Artwork-Wallpaper-lol.jpg);
+  height: 100%;
+  width: 100%;
+}
+#topbar{
+  height: 70px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: solid black;
+
+}
+a{
+  font-size: 40px;
+  font-family: fantasy;
+  text-decoration: none;
+  color: grey;
+  vertical-align: top;
+
+
+}
+
+a:hover{
+  color: red;
+}
+table{
+  margin-top: -40px;
+}
+th{
+  padding-right: 60px;
+  padding-bottom: -70px;
+}
+
+.champ{
+  height: 600px;
+  width: 400px;
+  margin-left:  100px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+
+.champname{
+  color: Gold;
+  font-family: impact;
+  display: inline-block;
+  padding-right: 70px;
+
+}
+.champpic{
+  width: 300px;
+  height: 200px;
+  transition: all 200ms ease;
+}
+
+.champpic:hover {
+  width: 500px;
+  height: 300px;
+}
+
+.champdes{
+  font-family:Impact;
+  color: pink;
+}
+
+
+.champdesmid{
+  color: black;
+  font-family:Impact;
+}
